@@ -3,7 +3,7 @@
 
 ## Scorecard
 
-| Name  | score | time | 
-|---|---|---|
-| CART-POLE |  2 |  |  
+| Name  | score | converged in # rounds | time |  
+|---|---|---|---|
+| CART-POLE |  500 | 23 | x |  
 
