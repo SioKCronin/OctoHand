@@ -1,6 +1,9 @@
 # khepri
 
-RL agent
 
 ## Scorecard
+
+| Name  | score | time | 
+|---|---|---|
+| CART-POLE |  2 |  |  
 
