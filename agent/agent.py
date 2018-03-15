@@ -4,6 +4,8 @@ import numpy as np
 import random
 from keras.models import Sequential
 from keras.layers import Dense
+from keras.optimizers import Adam
+from collections import deque
 
 class DQNAgent:
     def __init__(self, state_size, action_size):
@@ -13,7 +15,7 @@ class DQNAgent:
         self.gamma = 0.95
         self.epsilon = 1.0
         self.epsilon_min = 0.01
-        self.epsilon_decay - 0.995
+        self.epsilon_decay = 0.995
         self.learning_rate = 0.001
         self.model = self._build_model()
 
@@ -35,8 +37,10 @@ class DQNAgent:
         act_values = self.model.predict(state)
         return np.argmax(act_values[0])
 
-    def reply(self, batch_size):
-        minibatch = random.sample(self.memory, batch_size)
+    def replay(self, batch_size):
+        minibatch = random.sample(
+                self.memory, min(len(self.memory),batch_size))
+
         for state, action, reward, next_state, done in minibatch:
             target = reward
             if not done:
