@@ -5,5 +5,6 @@
 
 | Name  | score | converged in # rounds | time |  
 |---|---|---|---|
-| CART-POLE |  500 | 23 | x |  
+| CartPole-V1|  500 | 23 | x | 
+| Acrobat-V1 | x | x |
 
