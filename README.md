@@ -1,8 +1,8 @@
 # Akko
 
-Akko is a deep RL agent alogorithm inspired by insights gleaned from the cephalopod community. 
+Akko is a deep RL agent leveraging by insights gleaned from the cephalopod community. 
 
-## Scorecard
+## Benchmark performance
 
 | Name  | score | average converge | time |  
 |---|---|---|---|
