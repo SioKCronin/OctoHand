@@ -1,6 +1,6 @@
-# khepri
+# Akko
 
-This is my first attempt at a deep RL agent built with the hope of connecting insights from the cephalopod community. 
+Akko is a deep RL agent alogorithm inspired by insights gleaned from the cephalopod community. 
 
 ## Scorecard
 
