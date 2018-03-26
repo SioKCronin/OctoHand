@@ -1,6 +1,6 @@
 # khepri
 
-This is my first RL agent build with the hope of connecting insights from the cephalopod community 
+This is my first RL agent build with the hope of connecting insights from the cephalopod community. 
 
 ## Scorecard
 
