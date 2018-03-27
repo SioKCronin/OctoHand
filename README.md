@@ -1,3 +1,5 @@
+![akko](https://github.com/SioKCronin/akko/blob/master/media/akko.jpg)
+
 # Akko
 
 Akko is a deep RL agent leveraging insights gleaned from the cephalopod community. 
