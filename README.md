@@ -2,7 +2,7 @@
 
 # Akko
 
-Akko aims to create RL environments and agents leveraging insights gleaned from the cephalopod community. 
+Akko is an robotics testing environment featuring cephalopod appendages. 
 
 ## Inspiration
 
