@@ -2,7 +2,7 @@
 
 # Akko
 
-Akko is an robotics testing environment featuring cephalopod appendages. 
+Akko is a robotics testing environment featuring cephalopod appendages. 
 
 ## Inspiration
 
