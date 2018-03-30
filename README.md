@@ -1,8 +1,8 @@
-![akko](https://github.com/SioKCronin/akko/blob/master/media/akko.jpg)
+![octohand](https://github.com/SioKCronin/akko/blob/master/media/akko.jpg)
 
-# OctoHand
+# octohand
 
-OctoHand is a robotics testing environment featuring cephalopod appendages. 
+octohand is a robotics testing environment featuring cephalopod appendages. 
 
 ## Inspiration
 
