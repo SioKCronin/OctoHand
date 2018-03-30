@@ -2,7 +2,7 @@
 
 # octohand
 
-octohand is a robotics testing environment featuring cephalopod appendages. 
+octohand is a OpenAI gym-style robotics testing environment featuring cephalopod appendages. 
 
 ## Inspiration
 
