@@ -2,7 +2,7 @@
 
 # OctoHand
 
-OctoHand is a OpenAI gym-style robotics testing environment featuring a single tentacle after Festo's OctopusGripper. 
+OctoHand is a OpenAI gym-style robotics testing environment featuring tentacles after Festo's OctopusGripper. 
 
 ## Inspiration
 
