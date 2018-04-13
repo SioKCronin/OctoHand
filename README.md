@@ -1,6 +1,6 @@
 ![octohand](https://github.com/SioKCronin/akko/blob/master/media/akko.jpg)
 
-# OctoHand
+# OctoHand (coming soon!)
 
 OctoHand is a cephalapod-inspired OpenAI gym-style testing environment for reinforcement learning policy development and soft robotics research. In brief, a simulated robot hand—with tentacles! 
 
