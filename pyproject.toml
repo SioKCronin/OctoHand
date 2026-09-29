@@ -1,0 +1,28 @@
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "octohand"
+version = "0.1.0"
+description = "Cephalopod-inspired MuJoCo tasks for soft-gripper reinforcement learning."
+readme = "README.md"
+requires-python = ">=3.9"
+dependencies = [
+    "gymnasium>=0.29",
+    "mujoco>=3.1",
+    "numpy>=1.23",
+]
+
+[project.optional-dependencies]
+dev = ["pytest>=7"]
+
+[project.scripts]
+octohand-demo = "octohand.demo:main"
+octohand-train = "octohand.train:main"
+
+[tool.setuptools.packages.find]
+include = ["octohand*"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
